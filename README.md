@@ -9,6 +9,8 @@ Página pessoal de Guilherme Rebellato publicada no GitHub Pages
   <a href="#-projeto">Projeto</a>
 </p>
 
+<p align="center">
+  <img alt="Capa rebellatogui.github.io" src="assets/readme-preview.png" style="border-radius: 10px;">
 <br>
 
 ## 🚀 Tecnologias
